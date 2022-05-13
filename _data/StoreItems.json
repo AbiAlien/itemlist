@@ -5128,7 +5128,7 @@
       "abr": "archotechshieldgenerator",
       "category": "Special",
       "defname": "VFES_ShieldGenerator_Archotech",
-      "price": 4667
+      "price": -10
     },
     {
       "abr": "chargeturret",
@@ -6160,13 +6160,13 @@
       "abr": "archotecheraser",
       "category": "Utility",
       "defname": "VFEI_Artifacts_ArchotechEraser",
-      "price": 1083
+      "price": -10
     },
     {
       "abr": "archotechteleporter",
       "category": "Artifacts",
       "defname": "VFEI_Artifacts_ArchotechTeleporter",
-      "price": 1333
+      "price": -10
     },
     {
       "abr": "royalinsectjelly",
@@ -6226,7 +6226,7 @@
       "abr": "archotechshieldbelt",
       "category": "Artifacts",
       "defname": "VFEI_Apparel_ArchotechShieldBelt",
-      "price": 2183
+      "price": -10
     },
     {
       "abr": "plasmacutter",
@@ -7018,7 +7018,7 @@
       "abr": "archotechviolencegenerator",
       "category": "Special",
       "defname": "VPE_ArchotechViolenceGenerator",
-      "price": 5667
+      "price": -10
     },
     {
       "abr": "boots",
